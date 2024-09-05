@@ -1,0 +1,10 @@
+C:\Users\Estudiante\Desktop\PROF CANO\TP10-FLORES LUNA-PROYECTO\Ejercicio\Ejercicio\bin\Debug\Ejercicio.exe.config
+C:\Users\Estudiante\Desktop\PROF CANO\TP10-FLORES LUNA-PROYECTO\Ejercicio\Ejercicio\bin\Debug\Ejercicio.exe
+C:\Users\Estudiante\Desktop\PROF CANO\TP10-FLORES LUNA-PROYECTO\Ejercicio\Ejercicio\bin\Debug\Ejercicio.pdb
+C:\Users\Estudiante\Desktop\PROF CANO\TP10-FLORES LUNA-PROYECTO\Ejercicio\Ejercicio\obj\Debug\Ejercicio.csprojAssemblyReference.cache
+C:\Users\Estudiante\Desktop\PROF CANO\TP10-FLORES LUNA-PROYECTO\Ejercicio\Ejercicio\obj\Debug\Ejercicio.Form1.resources
+C:\Users\Estudiante\Desktop\PROF CANO\TP10-FLORES LUNA-PROYECTO\Ejercicio\Ejercicio\obj\Debug\Ejercicio.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\PROF CANO\TP10-FLORES LUNA-PROYECTO\Ejercicio\Ejercicio\obj\Debug\Ejercicio.csproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\PROF CANO\TP10-FLORES LUNA-PROYECTO\Ejercicio\Ejercicio\obj\Debug\Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\PROF CANO\TP10-FLORES LUNA-PROYECTO\Ejercicio\Ejercicio\obj\Debug\Ejercicio.exe
+C:\Users\Estudiante\Desktop\PROF CANO\TP10-FLORES LUNA-PROYECTO\Ejercicio\Ejercicio\obj\Debug\Ejercicio.pdb
